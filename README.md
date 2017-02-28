@@ -24,5 +24,6 @@ goto [http://localhost:4200] and see if app works.
 ```$ firebase login```
 
 ```$ firebase init```
+> use dist folder as public
 
 ```$ firebase deploy```
