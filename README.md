@@ -3,6 +3,7 @@
 
 # angular2-ex2
 second exercise - using components
+
 ---
 
 ## exercise 1 summary:
