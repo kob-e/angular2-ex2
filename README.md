@@ -1,6 +1,11 @@
 #Submission date:
 14/03/2017
 
+Sumbission rules:
+
+all files should be in the github assignment repository.
+you should include a link to Firebase url in README.md file.
+
 # angular2-ex2
 second exercise - using components
 
