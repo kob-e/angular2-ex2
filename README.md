@@ -1,5 +1,4 @@
 #Submission date:
-14/03/2017
 
 Sumbission rules:
 
@@ -48,3 +47,8 @@ Create a new component for app navigation menu. call the component `nav-menu`.
 now create a new component again called `nav-item`.
 nav menu should include an array of 4 objects, each object represent an item in the navigation menu. (think which properties it should have). the navigation menu template should iterate on the array and make the navigation items, pass the object to `nav-item` with `@Input()` decorator.
 Style the app as you wish.
+
+##
+how to import js libraries
+
+search for typings: https://microsoft.github.io/TypeSearch/
